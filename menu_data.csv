@@ -1,0 +1,41 @@
+Item_Name,Category,Cuisine,Price,Spice_Level,Type,Rating,Description
+Paneer Tikka,Starters,Indian,180,High,Veg,4.5,Grilled cottage cheese cubes marinated in spiced yogurt and tandoori masala
+Chicken 65,Starters,Indian,220,High,Non-Veg,4.6,Deep fried spicy chicken bites tossed in curry leaves and red chili
+Spring Rolls,Starters,Chinese,150,Low,Veg,4.2,Crispy rolls stuffed with fresh vegetables and glass noodles
+Chicken Manchurian,Starters,Chinese,240,Medium,Non-Veg,4.4,Chicken tossed in a tangy soy garlic sauce with spring onions
+Bruschetta,Starters,Italian,160,Low,Veg,4.1,Toasted bread topped with fresh tomato basil and olive oil
+Garlic Bread with Cheese,Starters,Italian,140,Low,Veg,4.3,Baked bread loaded with garlic butter and melted mozzarella
+Nachos Supreme,Starters,Mexican,190,Medium,Veg,4.2,Crispy tortilla chips topped with beans cheese and jalapenos
+Chicken Quesadilla,Starters,Mexican,230,Medium,Non-Veg,4.5,Grilled tortilla filled with spiced chicken and melted cheese
+Stuffed Mushrooms,Starters,Continental,170,Low,Veg,4.0,Mushroom caps stuffed with herbed cream cheese and baked
+Fish Fingers,Starters,Continental,210,Low,Non-Veg,4.3,Crispy breaded fish strips served with tartar sauce
+Butter Chicken,Main Course,Indian,320,Medium,Non-Veg,4.7,Tender chicken simmered in a rich creamy tomato butter gravy
+Paneer Butter Masala,Main Course,Indian,280,Medium,Veg,4.6,Cottage cheese cubes in a velvety buttery tomato curry
+Dal Makhani,Main Course,Indian,220,Low,Veg,4.4,Slow cooked black lentils finished with cream and butter
+Chicken Biryani,Main Course,Indian,300,High,Non-Veg,4.8,Fragrant basmati rice layered with spiced marinated chicken
+Veg Biryani,Main Course,Indian,250,Medium,Veg,4.3,Aromatic rice cooked with mixed vegetables and whole spices
+Kung Pao Chicken,Main Course,Chinese,290,High,Non-Veg,4.5,Stir fried chicken with peanuts chili and bell peppers
+Veg Hakka Noodles,Main Course,Chinese,210,Medium,Veg,4.2,Stir fried noodles tossed with crunchy vegetables and soy sauce
+Margherita Pizza,Main Course,Italian,300,Low,Veg,4.5,Classic pizza with tomato sauce mozzarella and fresh basil
+Pepperoni Pizza,Main Course,Italian,350,Low,Non-Veg,4.6,Wood fired pizza topped with pepperoni and mozzarella cheese
+Fettuccine Alfredo,Main Course,Italian,270,Low,Veg,4.3,Creamy parmesan alfredo sauce tossed with fettuccine pasta
+Spaghetti Bolognese,Main Course,Italian,290,Medium,Non-Veg,4.4,Spaghetti pasta with a rich minced meat tomato sauce
+Beef Tacos,Main Course,Mexican,260,High,Non-Veg,4.3,Soft tacos filled with spiced beef lettuce and salsa
+Veg Burrito Bowl,Main Course,Mexican,230,Medium,Veg,4.1,Rice beans corn and veggies with a zesty chipotle dressing
+Grilled Chicken Steak,Main Course,Continental,380,Low,Non-Veg,4.6,Herb marinated chicken steak grilled and served with veggies
+Gulab Jamun,Desserts,Indian,100,Low,Veg,4.5,Soft milk dumplings soaked in warm rose flavored sugar syrup
+Rasmalai,Desserts,Indian,120,Low,Veg,4.4,Soft cheese patties soaked in sweetened saffron milk
+Tiramisu,Desserts,Italian,180,Low,Veg,4.7,Layered coffee soaked dessert with mascarpone cream and cocoa
+Chocolate Lava Cake,Desserts,Continental,160,Low,Veg,4.8,Warm chocolate cake with a gooey molten chocolate center
+Churros,Desserts,Mexican,140,Low,Veg,4.3,Fried dough pastry dusted with cinnamon sugar and chocolate dip
+Fried Ice Cream,Desserts,Mexican,150,Low,Veg,4.2,Crispy fried coating around a scoop of vanilla ice cream
+Panna Cotta,Desserts,Italian,170,Low,Veg,4.4,Silky Italian cream dessert topped with a berry compote
+Fortune Cookies with Ice Cream,Desserts,Chinese,130,Low,Veg,4.0,Crunchy fortune cookies served with a scoop of ice cream
+Masala Chai,Beverages,Indian,50,Low,Veg,4.3,Traditional spiced Indian tea brewed with milk and ginger
+Mango Lassi,Beverages,Indian,90,Low,Veg,4.6,Chilled yogurt based mango smoothie with a hint of cardamom
+Virgin Mojito,Beverages,Continental,120,Low,Veg,4.5,Refreshing mint lime mocktail with soda and crushed ice
+Cold Coffee,Beverages,Continental,110,Low,Veg,4.4,Chilled blended coffee topped with whipped cream
+Iced Lemon Tea,Beverages,Chinese,90,Low,Veg,4.1,Refreshing chilled tea infused with fresh lemon
+Horchata,Beverages,Mexican,100,Low,Veg,4.2,Sweet rice based drink flavored with cinnamon and vanilla
+Italian Soda,Beverages,Italian,110,Low,Veg,4.0,Sparkling soda water mixed with fruity Italian syrup
+Fresh Watermelon Juice,Beverages,Continental,80,Low,Veg,4.3,Freshly squeezed chilled watermelon juice
